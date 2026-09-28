@@ -1,0 +1,14 @@
+# Python Sanal Ortamı
+.venv/
+env/
+__pycache__/
+
+# Veri Setleri ve Modeller
+dataset/
+*.pt
+*.pth
+*.h5
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
